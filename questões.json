@@ -1,0 +1,28 @@
+{
+    "Matemática": [
+        {
+            "enunciado": "1Qual é a resposta certa?",
+            "alternativas":["Letra a","Letra b","Letra c","Letra d","Letra e"],
+            "resposta":"a",
+            "justificativa": "É (a) pq sim.",
+            "dificuldade": "fÁCIL",
+            "assunto":"Qualquer"
+        },
+        {
+            "enunciado": "2Qual é a resposta certa?",
+            "alternativas":["Letra a","Letra b","Letra c","Letra d","Letra e"],
+            "resposta":"b",
+            "justificativa": "É (b) pq sim.",
+            "dificuldade": "Média",
+            "assunto":"Qualquer2"
+        },
+        {
+            "enunciado": "3Qual é a resposta certa?",
+            "alternativas":["Letra a","Letra b","Letra c","Letra d","Letra e"],
+            "resposta":"c",
+            "justificativa": "É (c) pq sim.",
+            "dificuldade": "Difícil",
+            "assunto":"Qualquer3"
+        }
+    ]
+}
